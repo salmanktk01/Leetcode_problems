@@ -1,5 +1,5 @@
 #Range Sum Query - Immutable
-#what we need to do is to find the range of that specfic sum of that range give in the array. using the array given to you in first index
+#what we need to do is to find  the range of that specfic sum of that range give in the array. using the array given to you in first index
 #["NumArray", "sumRange", "sumRange", "sumRange"] it does not required here 
 nums=[[[-2, 0, 3, -5, 2, -1]], [0, 2], [2, 5], [0, 5]]
 sum_array=nums[0][0]
