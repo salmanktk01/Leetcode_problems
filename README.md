@@ -1,7 +1,5 @@
-
-  # 🚀 LeetCode Solutions
-  _Because debugging is like being the detective in a crime movie where you're also the murderer_ 🕵️‍♂️
-</div>
+# 🚀 LeetCode Solutions
+*Because debugging is like being the detective in a crime movie where you're also the murderer* 🕵️‍♂️
 
 ### 🎯 What's This About?
 Welcome to my LeetCode solutions vault! This is where I document my journey through the fascinating world of algorithmic problems, from "Hello World" moments to "How Did I Even Solve This?" victories.
@@ -13,10 +11,12 @@ Welcome to my LeetCode solutions vault! This is where I document my journey thro
 - ⚡ Optimized approaches (after several "Time Limit Exceeded" attempts)
 
 ### 🌟 Repository Structure
- └── Solutions/
+```
+└── Solutions/
     ├── Easy/ (the ones that make you feel smart)
     ├── Medium/ (the ones that make you question everything)
     └── Hard/ (the ones that make you question your career choice)
+```
 
 ### 🎮 How to Navigate
 1. Find a problem you're stuck on
@@ -31,9 +31,10 @@ Welcome to my LeetCode solutions vault! This is where I document my journey thro
 
 ### 🤝 Let's Connect!
 Found a bug? Have a better solution? Want to collaborate? Let's connect and make this repository even better!
-  -LeetCode Profile: [Muhammad Salman](https://leetcode.com/u/MuhammadSalmans/)
+
+- 🧩 **LeetCode Profile:** [Muhammad Salman](https://leetcode.com/u/MuhammadSalmans/)
 > "There are only two hard things in Computer Science: cache invalidation, naming things, and off-by-one errors." 😉
 
 <div align="center">
   <i>Happy Coding! Remember: A good solution today is better than a perfect solution tomorrow... unless it's O(n²), then maybe think again.</i>
-</div> where should i add this leetcode profile 
+</div>
