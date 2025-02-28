@@ -13,7 +13,7 @@ Welcome to my LeetCode solutions vault! This is where I document my journey thro
 - ⚡ Optimized approaches (after several "Time Limit Exceeded" attempts)
 
 ### 🌟 Repository Structure
-└── Solutions/
+ └── Solutions/
     ├── Easy/ (the ones that make you feel smart)
     ├── Medium/ (the ones that make you question everything)
     └── Hard/ (the ones that make you question your career choice)
