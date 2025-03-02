@@ -5,7 +5,7 @@
 #reminder we need to fine the consective 1 in array 
 nums = [1, 1, 0, 1, 1, 1]
 window_sum = 0
-max_sum = 0
+max_sum = window_sum
 left=0
 for right in range(len(nums)):
     if(nums[right]==0):
