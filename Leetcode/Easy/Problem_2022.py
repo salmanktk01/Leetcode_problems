@@ -7,11 +7,11 @@ matrix=[1,2,3,4]
 m=2
 n=2
 index=0
-arr=[[0]*m for __ in range(n)]
-print(arr)
+arr=[[0]*m for __ in range(n)] #Rows x Column (n x m)
 for i in range(m):
     for j in range(n):
         arr[i][j]=matrix[index]
         index+=1
-print("uzaor gando")
 print(arr)
+
+# [original[i:i+n] for i in range(0,m*n,n)] yaad rakh amazing code
