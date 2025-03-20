@@ -7,12 +7,12 @@
 # call isBadVersion(4) -> true
 # Then 4 is the first bad version.
 n=5
-low,high=0,n-1
+low,high=1,n
 version=True
 while(low < high):
     mid=(low+high)//2
     if badversion(mid):
-          high=mid
+          high=mid-1
     else:
          low=mid+1
 
